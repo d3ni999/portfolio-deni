@@ -8,7 +8,7 @@ function Navbar () {
      >
         <div className="container">
             <a className="navbar-brand js-scroll-trigger" href="#page-top">
-                Deni Andriani
+                Portfolio
            </a>
             <button 
               className="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded"
@@ -19,7 +19,7 @@ function Navbar () {
               aria-expanded="false" 
               aria-label="Toggle navigation"
             >
-              Menu
+              {/* Menu */}
                 <i className="fas fa-bars"></i>
             </button>
             
